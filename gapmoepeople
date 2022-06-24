@@ -1,0 +1,17 @@
+{
+  "title": "Gap Moe People",
+  "description": "Twitter short manga series by @creamiyabi_0303",
+  "artist": "@creamiyabi_0303",
+  "author": "@creamiyabi_0303",
+  "cover": "https://pbs.twimg.com/media/FP8qDqkaQAM1ot-?format=jpg&name=small",
+  "chapters": {
+    "1": {
+      "title": "The Unexpected Consequence of an Innocent Girl Lending Someone Her Dictionary",
+      "volume": "1",
+      "groups": {
+        "Yaku Translations": "/proxy/api/reddit/chapter/u29pg8/"
+      },
+      "last_updated": "1649798213"
+    }
+  }
+}
