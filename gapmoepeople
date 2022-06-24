@@ -3,15 +3,71 @@
   "description": "Twitter short manga series by @creamiyabi_0303",
   "artist": "@creamiyabi_0303",
   "author": "@creamiyabi_0303",
-  "cover": "https://pbs.twimg.com/media/FP8qDqkaQAM1ot-?format=jpg&name=small",
+  "cover": "https://i.ibb.co/hFDn1yx/FP8q-Dqka-QAM1ot.jpg",
   "chapters": {
-    "1": {
+    "0": {
       "title": "The Unexpected Consequence of an Innocent Girl Lending Someone Her Dictionary",
       "volume": "1",
       "groups": {
         "Yaku Translations": "/proxy/api/reddit/chapter/u29pg8/"
       },
       "last_updated": "1649798213"
+    },
+    "1": {
+      "title": "It's Not What It Looks Like",
+      "volume": "1",
+      "groups": {
+        "Yaku Translations": "/proxy/api/reddit/chapter/u0b5f3/"
+      },
+      "last_updated": "1649569433"
+    },
+    "2": {
+      "title": "It's Not What It Looks Like",
+      "volume": "1",
+      "groups": {
+        "Yaku Translations": "/proxy/api/reddit/chapter/u2n6sv/"
+      },
+      "last_updated": "1649845572"
+    },
+    "3": {
+      "title": "It's Not What It Looks Like",
+      "volume": "1",
+      "groups": {
+        "Yaku Translations": "/proxy/api/reddit/chapter/u5n8aj/"
+      },
+      "last_updated": "1650202666"
+    },
+    "4": {
+      "title": "It's Not What It Looks Like",
+      "volume": "1",
+      "groups": {
+        "Yaku Translations": "/proxy/api/reddit/chapter/uanmj1/"
+      },
+      "last_updated": "1650778050"
+    },
+    "5": {
+      "title": "It's Not What It Looks Like (When Ordering at a Restaurant)",
+      "volume": "1",
+      "groups": {
+        "Yaku Translations": "/proxy/api/reddit/chapter/ue6f9y/"
+      },
+      "last_updated": "1651183153"
+    },
+    "6": {
+      "title": "It's Not What It Looks Like (Going Home Late)",
+      "volume": "1",
+      "groups": {
+        "Yaku Translations": "/proxy/api/reddit/chapter/uft3zh/"
+      },
+      "last_updated": "1651383791"
+    },
+    "7": {
+      "title": "It's Not What It Looks Like (Extortion)",
+      "volume": "1",
+      "groups": {
+        "Yaku Translations": "/proxy/api/reddit/chapter/ui5hwh/"
+      },
+      "last_updated": "1651667530"
     }
   }
 }
